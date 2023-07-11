@@ -46,3 +46,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saniyakubu&show_icons=true&locale=en" alt="saniyakubu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saniyakubu&" alt="saniyakubu" /></p>
+
+
+## 🏆 My Contribution Graph
+![](https://activity-graph.herokuapp.com/graph?username=Saniyakubu&theme=monokai)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Saniyakubu&icon=9&color=0)](https://visitcount.itsvg.in)
+
+
