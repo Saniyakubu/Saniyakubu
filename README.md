@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my portfolio website
 
-- 🌱 I’m currently learning **TypeScript and Firebase**
+- 🌱 I’m currently learning **Nodejs and ExpressJs**
 
 - 👨‍💻 All of my projects are available in my github
 
