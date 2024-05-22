@@ -3,7 +3,6 @@
 ## I'm a Front-end Developer,
 
 - 👨‍🏫 I love learning new things, especially coding.
-- 🌱 I'm currently building my portfolio website
 - 🏆 Goal: To become the mentor I wish I had when I was starting out.
 - 📫 Reach me by email **sspeedy070@gmail.com**
 - ⚡ Motto: Persistence leads to success
