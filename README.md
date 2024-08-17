@@ -4,7 +4,7 @@
 
 - 👨‍🏫 I love learning new things, especially coding.
 - 🏆 Goal: To become the mentor I wish I had when I was starting out.
-- 📫 Reach me by email **sspeedy070@gmail.com**
+- 📫 Reach me by email **ysani095@gmail.com**
 - ⚡ Motto: Persistence leads to success
 
 ### 📬 Connect with me:
